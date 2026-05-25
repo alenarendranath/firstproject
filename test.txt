@@ -1,1 +1,6 @@
+
 This is not conflict test
+
+This is the conflict usecase
+
+All good from ourside
